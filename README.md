@@ -4,6 +4,5 @@
 
 ## 最新文章
 
-* [2025-07-11](2025-07-11) 
-* Source: [Markdown](2025-07-11.md)
+* [2025-07-11](2025-07-11-weekly) 
 * Official: [Self-Host Weekly (2025-07-11)](https://selfh.st/weekly/2025-07-11/)
