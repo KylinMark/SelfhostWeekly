@@ -3,3 +3,4 @@ plugins:
 title: Selfhost 周报
 description: Selfhost 周报 AI总结翻译版
 author: selfh.st
+permalink: /:title.html
