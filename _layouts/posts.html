@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title | default: site.github.repository_name }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
+  <style>
+    body { padding: 2rem 1rem; max-width: 800px; margin: auto; }
+    ul.post-list { list-style: none; padding-left: 0; }
+    ul.post-list li { margin-bottom: 0.75rem; }
+    ul.post-list a { font-weight: 600; text-decoration: none; }
+    ul.post-list small { color: #586069; margin-left: 0.5rem; }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <main>
+    {% if site.posts.size == 0 %}
+      <p>暂无文章。</p>
+    {% else %}
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </main>
+
+  <footer>
+    <p style="margin-top: 3rem; font-size: 0.875rem; color: #586069;">
+      <a href="{{ '/' | relative_url }}">← 返回首页</a>
+    </p>
+  </footer>
+</body>
+</html>
