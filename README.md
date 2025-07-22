@@ -6,3 +6,7 @@
 
 * [2025-07-18](2025-07-18-weekly) 
 * Official: [Self-Host Weekly (2025-07-18)](https://selfh.st/weekly/2025-07-18/)
+
+## 往期文章
+
+* [文章列表](posts)
