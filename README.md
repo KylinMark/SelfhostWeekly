@@ -4,8 +4,8 @@
 
 ## 最新文章
 
-* [2025-09-05](2025-09-05-weekly) 
-* Official: [Self-Host Weekly (2025-09-05)](https://selfh.st/weekly/2025-09-05/)
+* [2025-09-12](2025-09-12-weekly) 
+* Official: [Self-Host Weekly (2025-09-12)](https://selfh.st/weekly/2025-09-12/)
 
 ## 往期文章
 
