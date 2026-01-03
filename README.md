@@ -4,8 +4,8 @@
 
 ## 最新文章
 
-* [2025-12-26](2025-12-26-weekly) 
-* Official: [Self-Host Weekly (2025-12-26)](https://selfh.st/weekly/2025-12-26/)
+* [2026-01-02](2026-01-02-weekly) 
+* Official: [Self-Host Weekly (2026-01-02)](https://selfh.st/weekly/2026-01-02/)
 
 ## 往期文章
 
