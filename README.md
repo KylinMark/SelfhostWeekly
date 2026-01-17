@@ -4,8 +4,8 @@
 
 ## 最新文章
 
-* [2026-01-09](2026-01-09-weekly) 
-* Official: [Self-Host Weekly (2026-01-09)](https://selfh.st/weekly/2026-01-09/)
+* [2026-01-16](2026-01-16-weekly) 
+* Official: [Self-Host Weekly (2026-01-16)](https://selfh.st/weekly/2026-01-16/)
 
 ## 往期文章
 
